@@ -4,7 +4,7 @@
   <img src="./logo.png" alt="RuneStone Logo" width="260" />
 </p>
 
-## 🪨 RuneStone Software Development
+##  RuneStone Software Development
 
 **RuneStone** es una organización de desarrollo de software enfocada en crear soluciones tecnológicas sólidas, modernas y escalables.
 
@@ -13,7 +13,7 @@ Construimos software con bases firmes, diseño limpio y visión a largo plazo.
 
 ---
 
-## 🚀 Qué hacemos
+##  Qué hacemos
 
 - Desarrollo de software a medida  
 - Aplicaciones web modernas  
@@ -23,19 +23,19 @@ Construimos software con bases firmes, diseño limpio y visión a largo plazo.
 
 ---
 
-## 🧭 Visión
+##  Visión
 
 Ser una organización reconocida por la solidez, confiabilidad y calidad de sus soluciones tecnológicas.
 
 ---
 
-## ⚙️ Misión
+##  Misión
 
 Crear software eficiente, claro y bien estructurado que impulse proyectos reales, manteniendo altos estándares técnicos y profesionales.
 
 ---
 
-## 🛡️ Valores
+##  Valores
 
 - Solidez  
 - Innovación  
