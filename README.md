@@ -6,43 +6,43 @@
 
 ##  RuneStone Software Development
 
-**RuneStone** es una organización de desarrollo de software enfocada en crear soluciones tecnológicas sólidas, modernas y escalables.
+**RuneStone** is a software development organization focused on building solid, modern, and scalable technological solutions.
 
-Nuestra identidad se inspira en el concepto de las **runas**: símbolos de poder, conocimiento y permanencia, combinados con un enfoque tecnológico actual.  
-Construimos software con bases firmes, diseño limpio y visión a largo plazo.
-
----
-
-##  Qué hacemos
-
-- Desarrollo de software a medida  
-- Aplicaciones web modernas  
-- Backend robusto y escalable  
-- APIs e integraciones  
-- Consultoría tecnológica  
+Our identity is inspired by **runes**—symbols of power, knowledge, and permanence—combined with a contemporary, technology-driven approach.  
+We build software with strong foundations, clean design, and long-term vision.
 
 ---
 
-##  Visión
+##  What We Do
 
-Ser una organización reconocida por la solidez, confiabilidad y calidad de sus soluciones tecnológicas.
-
----
-
-##  Misión
-
-Crear software eficiente, claro y bien estructurado que impulse proyectos reales, manteniendo altos estándares técnicos y profesionales.
+- Custom software development  
+- Modern web applications  
+- Robust and scalable backend systems  
+- APIs and system integrations  
+- Technology consulting  
 
 ---
 
-##  Valores
+##  Vision
 
-- Solidez  
-- Innovación  
-- Claridad  
-- Compromiso  
-- Trabajo en equipo  
+To be recognized as a reliable and solid software development organization, known for the quality and durability of its technological solutions.
 
 ---
 
-> **RuneStone** — Software tallado en piedra, escrito en código.
+##  Mission
+
+To create efficient, clean, and well-structured software that drives real-world projects forward while maintaining high technical and professional standards.
+
+---
+
+##  Core Values
+
+- Strength  
+- Innovation  
+- Clarity  
+- Commitment  
+- Teamwork  
+
+---
+
+> **RuneStone** — Software carved in stone, written in code.
