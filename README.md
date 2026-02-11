@@ -25,13 +25,13 @@ We build software with strong foundations, clean design, and long-term vision.
 
 ## Featured Projects
 
-### Intelligent Team Management Platform
+### Intelligent PC Component Compatibility Platform
 
-A web-based system that automatically forms work teams based on defined criteria such as skills, availability, academic performance, and technological affinity.  
+A web-based system that automatically builds optimized computer configurations based on compatibility rules between hardware components such as CPU, GPU, motherboard, RAM, storage, and power supply.
 
-The backend includes a matching algorithm that calculates compatibility scores between members and applies specific constraints (for example, requiring at least one backend and one frontend developer per team). The system evaluates and optimizes team composition to ensure balanced collaboration.  
+The platform evaluates technical constraints including socket compatibility, chipset support, RAM type and frequency, power consumption, PCIe generation, and physical form factors. The backend implements a compatibility and scoring algorithm that analyzes relationships between components, calculates a global compatibility score, and applies mandatory constraints (for example, matching CPU socket with motherboard socket, ensuring sufficient PSU wattage for GPU consumption, and verifying RAM support by the motherboard).
 
-On the frontend, users can view generated teams, manually adjust assignments, and analyze balance metrics to assess group effectiveness. This solution represents an optimization-driven approach to collaborative work management.
+Beyond basic validation, the system optimizes configurations according to selected goals such as gaming performance, workstation efficiency, budget limits, or energy consumption. It ensures balanced builds by preventing bottlenecks (e.g., high-end GPU paired with low-end CPU).
 
 ---
 
