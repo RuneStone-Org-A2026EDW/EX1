@@ -45,13 +45,14 @@ The frontend includes an interactive dashboard with visual charts, a risk-level 
 
 ---
 
-### Personal Finance Management System with Predictive Analysis
+### Gym Companion App with Levels, Predefined Avatars, and Personalized AI Chatbot
 
-A web-based personal finance management solution that helps users track and optimize their spending habits.  
+This project is a mobile and web-based application designed to enhance the fitness experience through workout tracking, nutrition guidance, and gamification. 
 
-The platform automatically classifies expenses into categories, identifies spending patterns, and predicts future monthly expenses using statistical analysis and a basic predictive model.  
+Users select **predefined avatars provided by the platform** and progress through **levels or rankings** based on completed workouts, adherence to routines, and achievements. The platform offers **personalized workout routines and diet plans**, tailored to each user’s goals, fitness level, and preferences. Additionally, an **AI-powered chatbot** provides real-time guidance, answers questions about exercises and nutrition, and motivates users to stay consistent. 
 
-This project demonstrates applied data processing, financial analytics, and practical full-stack development capabilities, making it a strong professional portfolio asset.
+This system encourages engagement, promotes healthy habits, and transforms fitness into an interactive and rewarding experience.
+
 
 ---
 
